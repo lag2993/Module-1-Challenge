@@ -1,6 +1,6 @@
 # <Module-Challenge-1>
 ## Description
-  Module Challenge 1 an on-the-job-ticket for the front page of the Horiseon marketing company website. Refacotring the existing code meet accessibility standards and    optimized the code for search engines. 
+  Module 1 Challenge, an on-the-job-ticket for the front page of the Horiseon marketing company website. Refacotring the existing code meet accessibility standards and    optimized the code for search engines. 
   
 ## Installation
 N/A
